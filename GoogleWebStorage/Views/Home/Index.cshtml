@@ -1,8 +1,137 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<!-- Hero Section -->
+<section class="hero-section vh-100 d-flex align-items-center  text-light ">
+    <div class="container position-relative text-center">
+        <h1 class="display-4 fw-bold mb-4">Every Face Tells a Story</h1>
+        <p class="lead mb-5">Pain&Life: Where Struggles Meet Strength</p>
+    </div>
+</section>
+<br>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        
+    </div>
 </div>
+
+
+<!-- Mission Statement -->
+<section class="mission-statement bg-dark py-5">
+    <div class="container text-center">
+        <div class="jumbotron p-4 rounded">
+            <h2 class="display-4 mb-3">We Don't Just Tell Stories. We Honor Journeys.</h2>
+            <p class="lead mb-4">Our mission is to provide a platform where personal struggles and triumphs are shared, honored, and turned into sources of inspiration for others. Every story submitted enriches our community and supports those who need it most.</p>
+        </div>
+    </div>
+</section>
+<br/>
+@* <!-- Featured Stories -->
+<section class="featured-stories py-5">
+    <div class="container">
+        <h2 class="display-5 mb-4 text-center">Featured Stories</h2>
+        <div class="card-columns ">
+            <!-- Example Featured Story 1 -->
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="card-title">"A New Beginning"</h5>
+                    <p class="card-text">“Every ending is a new beginning. Embrace your journey.”</p>
+                    <a href="/stories/a-new-beginning" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+            <!-- Example Featured Story 2 -->
+            <div class="card mt-3">
+                <div class="card-body text-center">
+                    <h5 class="card-title">"Overcoming Fear"</h5>
+                    <p class="card-text">“Fear is just a chapter in our story. Keep going.”</p>
+                    <a href="/stories/overcoming-fear" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+            <!-- Example Featured Story 3 -->
+            <div class="card mt-3">
+                <div class="card-body text-center">
+                    <h5 class="card-title">"Finding Light"</h5>
+                    <p class="card-text">“Even in darkness, there is light. Find it.”</p>
+                    <a href="/stories/finding-light" class="btn btn-primary">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> *@
+
+<!-- Testimonial Carousel -->
+<section class="testimonial-carousel py-4">
+    <div class="container text-center">
+        <h2 class="display-5 mb-4">What Our Community Says</h2>
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+            
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <p class="testimonial">"Sharing my story on Pain&Life was the best decision I've ever made. The support I've received is overwhelming."</p>
+                    <p class="author">- Jane Doe</p>
+                </div>
+                <div class="carousel-item">
+                    <p class="testimonial">"This platform is a beacon of hope for anyone going through tough times."</p>
+                    <p class="author">- John Smith</p>
+                </div>
+                <div class="carousel-item">
+                    <p class="testimonial">"Reading others' stories gave me the courage to face my own struggles."</p>
+                    <p class="author">- Emily Johnson</p>
+                </div>
+            </div>
+            <br/>
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Emotional Categories -->
+<section class="emotional-categories py-5">
+    <div class="container text-center">
+        <h2 class="display-5 mb-4">Explore by Emotion</h2>
+        <div class="row justify-content-center">
+            <div class="col-6 col-md-3 mb-3">
+                <button class="btn btn-block btn-success">Hope</button>
+            </div>
+            <div class="col-6 col-md-3 mb-3">
+                <button class="btn btn-block btn-success">Resilience</button>
+            </div>
+            <div class="col-6 col-md-3 mb-3">
+                <button class="btn btn-block btn-success">Courage</button>
+            </div>
+            <div class="col-6 col-md-3 mb-3">
+                <button class="btn btn-block btn-success">Healing</button>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+@* <!-- Interactive Element -->
+<section class="interactive-element py-5">
+    <div class="container text-center">
+        <h2 class="display-5 mb-4">Share Your Story</h2>
+        <div class="circle d-flex align-items-center justify-content-center mx-auto mb-4">
+            <a href="/share-your-story" class="btn btn-lg btn-primary">Share Now</a>
+        </div>
+    </div>
+</section> *@
+
+
+
+
+
+<!-- Call to Action -->
+<section class="call-to-action py-5 text-center">
+    <div class="container">
+        <h2 class="display-5 mb-4">Join Us in Spreading Hope</h2>
+        <p class="lead mb-4">Be a part of our community and help us make a difference. Your story can inspire others.</p>
+@*         <a href="/join-us" class="btn text-white-50 btn-lg">Get Involved</a>*@    
+    </div>
+</section>

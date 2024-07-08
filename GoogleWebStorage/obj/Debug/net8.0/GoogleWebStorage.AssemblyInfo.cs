@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleWebStorage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ae29bb7c9c66fb31fd53fd08a265b5104e7d0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c567c6a8245a7ad08e420d056a427e266fbb8f2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleWebStorage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleWebStorage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

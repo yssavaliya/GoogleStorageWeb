@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "006GdfZiMo+/zyYGgGm8eUQohNAGR39Wo4votTAtb70=",
+  "Hash": "hJzRzpXVulkwSYIhZY7a04rI0gQCxUDSNWSovP8TyGY=",
   "Source": "GoogleWebStorage",
   "BasePath": "_content/GoogleWebStorage",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\Images\\Home-Image.jpeg",
+      "SourceId": "GoogleWebStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\",
+      "BasePath": "_content/GoogleWebStorage",
+      "RelativePath": "Images/Home-Image.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Home-Image.jpeg"
     },
     {
       "Identity": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\js\\site.js",

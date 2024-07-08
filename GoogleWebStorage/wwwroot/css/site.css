@@ -1,22 +1,48 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    background-color: black;
+    color: #b7efc5;
+}
+
+
+
+.story-glimpses .story-img .story-quote {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.mission-statement {
+    background-color: #212121;
+    color: #b7efc5;
+}
+
+.featured-stories .card {
+    background-color: #292929;
+    color: #b7efc5;
+}
+
+.emotional-categories button {
+    background-color: #2b8a3e;
+    color: #b7efc5;
+}
+
+.emotional-categories button:hover {
+    background-color: #167529;
+    color: #b7efc5;
+}
+
+
+.testimonial-carousel {
+    background-color: #1b1b1b;
+}
+
+.call-to-action {
+    background-color: #2b8a3e;
+}
+
+footer {
+    background-color: #1b1b1b;
+}
+
+.btn-primary {
+    background-color: #2b8a3e;
+    border-color: #2b8a3e;
 }
