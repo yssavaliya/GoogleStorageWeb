@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\GoogleWebStorage.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\Images\\BirdOnCactus.png",
+      "PackagePath": "staticwebassets\\Images\\BirdOnCactus.png"
+    },
+    {
       "Id": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\Images\\Home-Image.jpeg",
       "PackagePath": "staticwebassets\\Images\\Home-Image.jpeg"
     },

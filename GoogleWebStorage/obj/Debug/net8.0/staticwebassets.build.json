@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hJzRzpXVulkwSYIhZY7a04rI0gQCxUDSNWSovP8TyGY=",
+  "Hash": "fq4sXSv+HStJkM8z663bVVmawzGrCPqcLZEMRBvtRtA=",
   "Source": "GoogleWebStorage",
   "BasePath": "_content/GoogleWebStorage",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\Images\\BirdOnCactus.png",
+      "SourceId": "GoogleWebStorage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\",
+      "BasePath": "_content/GoogleWebStorage",
+      "RelativePath": "Images/BirdOnCactus.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\BirdOnCactus.png"
     },
     {
       "Identity": "C:\\Users\\YASH\\OneDrive\\Desktop\\Research\\GoogleStorageWeb\\GoogleStorageWeb\\GoogleWebStorage\\wwwroot\\Images\\Home-Image.jpeg",

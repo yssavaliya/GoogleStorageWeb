@@ -18,6 +18,11 @@ namespace GoogleWebStorage.Controllers
             return View();
         }
 
+        public IActionResult Threejs()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
